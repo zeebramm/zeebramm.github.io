@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+}
+h1,h2{
+    color: green;
+}
+p {
+    color: red;
+}
+.center {
+    position: fixed;
+    color: green;
+    float: left;
+    margin: 100px 350px;
+    width: 20%;
+    
+}
+.right {
+    position: fixed;
+    margin: 300px 1400px;
+   
+}
